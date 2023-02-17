@@ -4,5 +4,5 @@ If you managed to land here somehow, congrats! Feel free to browse around.
 
 ### A little about me
 
-Currently a student at George Brown College and living in Toronto, Canada.
-And I like to code :)
+Full-time software dev based in Toronto, Ontario.
+I enjoy programming, photography, coffee, and other 'human-activities'!
